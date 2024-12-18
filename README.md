@@ -1,3 +1,8 @@
+Assignment by the University of Manchester 
+
+All codes are written by Clive Marvelous
+
+Assignment Summary:
 1. Read course data from a file.
 2. Compute the mean, standard deviation, and standard error for the coursework marks.
 3. Use dynamic memory allocation or vectors for storing data.
